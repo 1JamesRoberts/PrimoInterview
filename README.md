@@ -1,6 +1,6 @@
 After cloning this repository
 
-1.Install the required development dependencies (TypeScript, Vitest, and Node types) by running:
+1. Install the required development dependencies (TypeScript, Vitest, and Node types) by running:
   ```bash
   npm install
   ```
@@ -9,4 +9,5 @@ After cloning this repository
    ```bash
    npm test
    ```
+
 
